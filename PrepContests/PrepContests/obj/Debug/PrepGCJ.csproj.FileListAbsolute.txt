@@ -1,0 +1,6 @@
+C:\Users\Imortal\Documents\Projects\PrepGCJ\PrepGCJ\bin\Debug\PrepGCJ.exe.config
+C:\Users\Imortal\Documents\Projects\PrepGCJ\PrepGCJ\bin\Debug\PrepGCJ.exe
+C:\Users\Imortal\Documents\Projects\PrepGCJ\PrepGCJ\bin\Debug\PrepGCJ.pdb
+C:\Users\Imortal\Documents\Projects\PrepGCJ\PrepGCJ\obj\Debug\PrepGCJ.csprojResolveAssemblyReference.cache
+C:\Users\Imortal\Documents\Projects\PrepGCJ\PrepGCJ\obj\Debug\PrepGCJ.exe
+C:\Users\Imortal\Documents\Projects\PrepGCJ\PrepGCJ\obj\Debug\PrepGCJ.pdb

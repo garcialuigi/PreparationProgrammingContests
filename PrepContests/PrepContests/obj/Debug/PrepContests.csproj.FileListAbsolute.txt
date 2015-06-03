@@ -1,0 +1,12 @@
+C:\Users\Imortal\Documents\Projects\PrepContests\PrepGCJ\bin\Debug\PrepContests.exe.config
+C:\Users\Imortal\Documents\Projects\PrepContests\PrepGCJ\bin\Debug\PrepContests.exe
+C:\Users\Imortal\Documents\Projects\PrepContests\PrepGCJ\bin\Debug\PrepContests.pdb
+C:\Users\Imortal\Documents\Projects\PrepContests\PrepGCJ\obj\Debug\PrepContests.csprojResolveAssemblyReference.cache
+C:\Users\Imortal\Documents\Projects\PrepContests\PrepGCJ\obj\Debug\PrepContests.exe
+C:\Users\Imortal\Documents\Projects\PrepContests\PrepGCJ\obj\Debug\PrepContests.pdb
+C:\Users\Imortal\Documents\Projects\PrepContests\PrepContests\bin\Debug\PrepContests.exe.config
+C:\Users\Imortal\Documents\Projects\PrepContests\PrepContests\obj\Debug\PrepContests.exe
+C:\Users\Imortal\Documents\Projects\PrepContests\PrepContests\obj\Debug\PrepContests.pdb
+C:\Users\Imortal\Documents\Projects\PrepContests\PrepContests\bin\Debug\PrepContests.exe
+C:\Users\Imortal\Documents\Projects\PrepContests\PrepContests\bin\Debug\PrepContests.pdb
+C:\Users\Imortal\Documents\Projects\PrepContests\PrepContests\obj\Debug\PrepContests.csprojResolveAssemblyReference.cache
